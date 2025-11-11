@@ -76,4 +76,3 @@ The completed dashboard offers actionable insights for management to improve pro
 1.  **Staffing Optimization:** Schedule the highest-performing baristas and the greatest number of staff during the identified peak hours to **maximize customer throughput** and minimize wait times during busy periods.
 2.  **Targeted Promotions:** Implement **Happy Hour or discounted bundled promotions** (e.g., coffee and breakfast item combos) during the slowest hours of the day to drive footfall during off-peak times.
 3.  **Product Strategy:** Use the size-segmented product analysis to identify which product sizes (Small, Regular, Large) are most popular for the highest-margin items, guiding future inventory and procurement decisions.
-http://googleusercontent.com/youtube_content/2
