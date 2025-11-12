@@ -38,8 +38,10 @@ The project followed a standard analytical workflow, leveraging advanced Excel c
 ### 1. Data Cleaning and Preparation (Power Query)
 
 * **ETL:** Imported and connected the raw transactional sales data into the **Power Query Editor**.
+  
 * **Data Transformation:** Crucial steps were taken to standardize the data, including:
     * **Size Standardization:** Separating product size indicators (e.g., "LG," "RG," "SM" for Large, Regular, Small) from the main Product Name column to enable clear analysis by size category.
+  
     * **Data Type Integrity:** Ensuring columns like `Sales`, `Price`, and `Revenue` were correctly formatted as decimals/currency, and Date/Time fields were usable for time-series analysis.
 
 ### 2. Analytical Modeling (Pivot Tables)
