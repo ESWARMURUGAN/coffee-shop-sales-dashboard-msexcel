@@ -75,7 +75,7 @@ The completed dashboard offers actionable insights for management to improve pro
 
 * **Peak Time Insight:** The analysis clearly isolates the **peak sales hours** (e.g., 9 AM - 11 AM and 2 PM - 4 PM), which contribute the highest proportion of daily revenue.
 * **Revenue Concentration:** Revenue is highly concentrated on specific days of the week, necessitating tailored marketing efforts on slower days to smooth revenue flow.
-* **Customer Size:** The **Average Bill per Person** metric provides a benchmark for staff training, indicating if upselling attempts (e.g., suggesting a pastry with a coffee) are successful in increasing transaction value.
+
 
 ### Operational Recommendations
 
