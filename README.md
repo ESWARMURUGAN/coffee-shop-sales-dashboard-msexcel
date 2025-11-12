@@ -47,7 +47,7 @@ The cleaned data was used to construct multiple **Pivot Tables**. These tables s
 > **Visual: Pivot Tables – The Analytical Engine**
 > *This image showcases the underlying Pivot Tables that structure the data and perform all the complex calculations for the final dashboard visuals.*
 >
-> ![Excel Pivot Tables used for sales metric calculation](https://raw.githubusercontent.com/ESWARMURUGAN/coffee-shop-sales-dashboard-msexcel/0ca28f42acf713dd3a6b5f53545ed134f2e4977c5/pivot_tables.png)
+> ![Excel Pivot Tables used for sales metric calculation](https://github.com/ESWARMURUGAN/coffee-shop-sales-dashboard-msexcel/blob/0f5230bdf21f5532e6bfb4793679e5c401677e28/pivot_tables.png)
 
 ### 3. Visualization and Interactivity
 
