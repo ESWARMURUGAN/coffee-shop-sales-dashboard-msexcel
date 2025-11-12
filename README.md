@@ -20,9 +20,13 @@ This project demonstrates the use of **Microsoft Excel** as a powerful tool for 
 The core goal of this project was to answer critical questions about sales performance to identify areas of waste, growth opportunity, and operational efficiency:
 
 1.  **Sales Trends:** What is the **Total Sales Revenue** generated for each month?
+
 2.  **Daily & Weekly Fluctuation:** How do **Sales Vary by Day of the Week** (e.g., peak performance on weekends vs. weekdays)?
+
 3.  **Peak Hours & Staffing:** Are there any **Peak Times of Sales Activity** (by hour of the day) that require adjusted staffing levels?
+
 4.  **Geographic Performance:** How are sales performing across **different store locations**?
+
 5.  **Customer Behavior:** What is the **Average Bill and Average Order Size** to inform upselling strategies?
 
 ---
@@ -74,5 +78,7 @@ The completed dashboard offers actionable insights for management to improve pro
 ### Operational Recommendations
 
 1.  **Staffing Optimization:** Schedule the highest-performing baristas and the greatest number of staff during the identified peak hours to **maximize customer throughput** and minimize wait times during busy periods.
+
 2.  **Targeted Promotions:** Implement **Happy Hour or discounted bundled promotions** (e.g., coffee and breakfast item combos) during the slowest hours of the day to drive footfall during off-peak times.
+
 3.  **Product Strategy:** Use the size-segmented product analysis to identify which product sizes (Small, Regular, Large) are most popular for the highest-margin items, guiding future inventory and procurement decisions.
